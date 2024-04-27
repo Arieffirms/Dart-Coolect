@@ -1,0 +1,13 @@
+void main () {
+  final list = <String> {};
+
+  list.add("arief");
+  list.add("firmansyah");
+  list.add("Smith");
+
+  list..add("rapiets")..add("malikum")..add("adam");
+
+
+  print(list);
+
+}
